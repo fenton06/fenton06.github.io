@@ -54,7 +54,6 @@ Deletes wave plate and adds additional friction and steel.
 | MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- | :- |
 | Sonnax | - | - | 104548-01 | High Capacity 3-5-R Ring | 1 |
-1 |
 
 &nbsp;
 &nbsp;
@@ -64,6 +63,7 @@ Deletes wave plate and adds additional friction and steel.
 0.008" - 0.010" per friction
 
 ### Selective 3-5-R Retaining Rings
+
 | MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION |
 | :- | :- | :- | :- | :- |
 | AC Delco | 45872BK | 24240201 | - | 0.137" - 0.141" |
