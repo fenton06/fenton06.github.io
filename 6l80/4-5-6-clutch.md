@@ -30,6 +30,7 @@ Require one additonal friction.
 &nbsp;
 
 ### Extreme Duty 4-5-6 Clutch
+
 | MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- | :- |
 | Sonnax | - | - | 104680-45 | Extreme Duty 4-5-6 Clutch Hub and Intermediate Shaft | 1 |
@@ -37,6 +38,3 @@ Require one additonal friction.
 | Sonnax |  | - | 104120-02 | 4-5-6 0.090 Steel (Lindered) | 5 |
 | Sonnax |  | - | 104120-01 | 4-5-6 0.078 Steel (Lindered) | 1 |
 | Sonnax | - | - | 104960-20K | Extreme Duty 4-5-6 Clutch Apply Piston Plate | 1 |
-
-&nbsp;
-&nbsp;
