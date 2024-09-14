@@ -13,6 +13,7 @@
 &nbsp;
 
 ## Steels
+
 | MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- | :- |
 | Raybestos |  | - | 000601 | Steels Kit | 1 |
@@ -47,6 +48,7 @@
 &nbsp;
 
 ## Thrust Bearings
+
 | MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- | :- |
 | Sonnax | - | - | SBK-G80 | Kit | 1 |
@@ -67,6 +69,7 @@
 &nbsp;
 
 ## 1-2-3-4 Clutch
+
 | MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- | :- |
 | Sonnax | - | - | 104984-01 | Heavy Duty 1-2-3-4 Piston | 1 |
@@ -75,6 +78,7 @@
 &nbsp;
 
 ## 2-6 Clutch
+
 | MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- | :- |
 | AC Delco | - | 24224169 | - | 2-6 Clutch Piston | 1 |
@@ -82,6 +86,7 @@
 &nbsp;
 
 ## 3-5-R Clutch
+
 | MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- | :- |
 | AC Delco | 45872BK | 24260139 | - | 3-5-R and 4-5-6 Snap Ring Kit | 1 |
@@ -91,6 +96,7 @@
 &nbsp;
 
 ## 4-5-6 Clutch
+
 | MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- | :- |
 | AC Delco | - | - | 24232416 | 4-5-6 Clutch Piston | 1 |
@@ -99,6 +105,7 @@
 &nbsp;
 
 ### Heavy Duty 4-5-6 Clutch
+
 | MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- | :- |
 | Sonnax | - | - | 104680-36 | Heavy Duty 4-5-6 Clutch Hub and Intermediate Shaft | 1 |
@@ -107,6 +114,7 @@
 &nbsp;
 
 ### High Capacity 4-5-6 Clutch
+
 Require one additonal friction.
 
 | MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
@@ -117,6 +125,7 @@ Require one additonal friction.
 &nbsp;
 
 ### Extreme Duty 4-5-6 Clutch
+
 | MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- | :- |
 | Sonnax | - | - | 104680-45 | Extreme Duty 4-5-6 Clutch Hub and Intermediate Shaft | 1 |
@@ -129,6 +138,7 @@ Require one additonal friction.
 &nbsp;
 
 ## Low Reverse Clutch
+
 | MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- | :- |
 | AC Delco | - | 24230752 | - | Rear Sprag Snap Ring | 1 |
