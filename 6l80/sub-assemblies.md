@@ -1,6 +1,6 @@
 # Sub-Assemblies
-
 ## Frictions
+
 | MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- | :- |
 | BorgWarner |  | 24224147 | 29661AM | 1-2-3-4 Friction | 5 |
