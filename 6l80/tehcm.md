@@ -6,7 +6,7 @@
 | :- | :- | :- | :- | :- |
 | Sonnax | - | 124740-70K | Pressure Switch Rebuild Kit | 1 |
 | Sonnax | - | 124740-TL-70 | Pressure Switch Rebuild Tool Kit | 1 |
-| GM | 24258550 | - | Internal Mode Switch | 1 |
+| GM | 24258550 | - | Internal Mode Switch (new switch retros 2006-E2007)| 1 |
 
 &nbsp;
 

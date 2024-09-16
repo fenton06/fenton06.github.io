@@ -28,5 +28,5 @@
 
 | MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- |
-| AC Delco | 24230752 | - | Rear Sprag Snap Ring | 1 |
-| BorgWarner | - | 140747BW | 38 Element Sprag | 1 |
+| AC Delco | 24230752 | - | Rear Sprag Snap Ring (retros 2006-E2007)| 1 |
+| BorgWarner | - | 140747BW | 38 Element Sprag (retros 2006-E2007)| 1 |

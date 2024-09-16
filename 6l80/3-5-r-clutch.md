@@ -4,7 +4,7 @@
 
 | MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- |
-| AC Delco | 45872BK | 24260139 | - | 3-5-R and 4-5-6 Snap Ring Kit | 1 |
+| AC Delco | 24260139 | - | 3-5-R and 4-5-6 Snap Ring Kit | 1 |
 
 &nbsp;
 
