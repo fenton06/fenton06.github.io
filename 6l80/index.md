@@ -15,5 +15,3 @@
 ### [Low-Reverse Clutch](low-reverse-clutch.md)
 
 ### [Tools](tools.md)
-
-### [Questions](questions.md)

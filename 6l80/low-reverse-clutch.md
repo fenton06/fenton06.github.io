@@ -2,31 +2,31 @@
 
 ## Frictions
 
-| MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- | :- |
-| BorgWarner |  | 24240041 | 31735AM | Low-Rev Friction | 5 |
+| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
+| :- | :- | :- | :- | :- |
+| BorgWarner | 24240041 | 31735AM | Low-Rev Friction | 5 |
 
 &nbsp;
 
 ## Steels
 
-| MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- | :- |
-| Raybestos |  | 24232496 | 511185 | Low-Rev Steel | 5 |
+| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
+| :- | :- | :- | :- | :- |
+| Raybestos | 24232496 | 511185 | Low-Rev Steel | 5 |
 
 &nbsp;
 
 ## Pistons
 
-| MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- | :- |
-| AC Delco | - | 24224172 | - | Low-Reverse Clutch Piston | 1 |
+| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
+| :- | :- | :- | :- | :- |
+| AC Delco | 24224172 | - | Low-Reverse Clutch Piston | 1 |
 
 &nbsp;
 
 ## Hard Parts
 
-| MANUFACTURER | WITT PN | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- | :- |
-| AC Delco | - | 24230752 | - | Rear Sprag Snap Ring | 1 |
-| BorgWarner | - | - | 140747BW | 38 Element Sprag | 1 |
+| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
+| :- | :- | :- | :- | :- |
+| AC Delco | 24230752 | - | Rear Sprag Snap Ring | 1 |
+| BorgWarner | - | 140747BW | 38 Element Sprag | 1 |
