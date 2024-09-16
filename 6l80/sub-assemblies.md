@@ -8,11 +8,13 @@
 
 ## Kolene Steels
 ### Kit
+
 | MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- |
 | Raybestos | - | STMGM06K | Steel Kit (Kolene) | 1 |
 
 ### Individual
+
 | MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- |
 | Raybestos | 24232497 | 51K188 | 1-2-3-4 Steel (Kolene) | 5 |
@@ -25,11 +27,13 @@
 
 ## Thrust Bearings
 ### Kit
+
 | MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- |
 | Sonnax | - |SBK-G80 | Kit | 1 |
 
 ### Individual
+
 | MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- |
 | GM | 24224405 | - | Sun Gear | 1 |

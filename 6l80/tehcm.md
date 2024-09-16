@@ -14,10 +14,9 @@
 
 | MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- |
-| AC Delco | - | - | Separator Plate| 1 |
+| AC Delco | 24245720 | - | Separator Plate (Type 1) | 1 |
+| AC Delco | 24272467 | - | Separator Plate (Type 2) | 1 |
 | AC Delco | 24280048 | - | HD Parking Rod | 1 |
-| Sonnax | 10000-08 | - | Plastic Checkballs | 1 |
-| Sonnax | 104740-23K | - | O-Ring End Plug Kit | 1 |
 
 &nbsp;
 

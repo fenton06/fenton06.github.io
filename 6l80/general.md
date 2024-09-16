@@ -5,6 +5,7 @@
 | MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- |
 | Transtec | - | 81000284 | Overhaul kit | 1 |
+| Sonnax | - | 6L45-6L90-ZIP | Zip kit | 1 |
 
 &nbsp;
 

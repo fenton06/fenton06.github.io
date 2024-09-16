@@ -11,11 +11,13 @@
 
 ## Standard
 ### Frictions
+
 | MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- |
 | BorgWarner | 24224148 | 31091AM | 3-5-R Friction | 4 |
 
 ### Steels
+
 | MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- |
 | Raybestos | 24232499 | 511187 | 3-5-R Steel | 4 |
@@ -27,11 +29,13 @@
 Deletes wave plate and adds additional friction and steel.
 
 ### Frictions
+
 | MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- |
 | BorgWarner | 24224148 | 31091AM | 3-5-R Friction | 5 |
 
 ### Steels
+
 | MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
 | :- | :- | :- | :- | :- |
 | Raybestos | 24232499 | 511187 | 3-5-R Steel | 5 |
@@ -49,6 +53,7 @@ Deletes wave plate and adds additional friction and steel.
 0.008" - 0.010" per friction
 
 ### Selective 3-5-R Retaining Rings
+
 | MANUFACTURER | OEM PN | PN | DESCRIPTION |
 | :- | :- | :- | :- |
 | AC Delco | 45872BK | 24240201 | - | 0.137" - 0.141" |
