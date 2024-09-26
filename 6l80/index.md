@@ -1,7 +1,5 @@
 ### [General](general.md)
 
-### [TEHCM](tehcm.md)
-
 ### [Pump](pump.md)
 
 ### [1-2-3-4 Clutch](1-2-3-4-clutch.md)
@@ -13,5 +11,7 @@
 ### [4-5-6 Clutch](4-5-6-clutch.md)
 
 ### [Low-Reverse Clutch](low-reverse-clutch.md)
+
+### [TEHCM](tehcm.md)
 
 ### [Tools](tools.md)
