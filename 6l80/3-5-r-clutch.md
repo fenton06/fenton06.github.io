@@ -1,53 +1,35 @@
 # 3-5-R Clutch
 
-## All Setups
+## Parts
 
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| AC Delco | 24260139 | - | 3-5-R and 4-5-6 Snap Ring Kit | 1 |
+| MANUFACTURER | OEM PN | PN | DESCRIPTION |
+| :- | :- | :- | :- |
+| AC Delco | 24260139 | - | 3-5-R and 4-5-6 Snap Ring Kit |
+| BorgWarner | 24224148 | 31091AM | 3-5-R Friction |
+| Raybestos | 24232499 | 511187 | 3-5-R Steel |
 
 &nbsp;
 
 ## Standard
-### Frictions
-
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| BorgWarner | 24224148 | 31091AM | 3-5-R Friction | 4 |
-
-### Steels
-
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| Raybestos | 24232499 | 511187 | 3-5-R Steel | 4 |
+- wave plate
+- 4 frictions
+- 4 steels
 
 &nbsp;
 
 ## High Capacity
 
-Deletes wave plate and adds additional friction and steel.
+| MANUFACTURER | OEM PN | PN | DESCRIPTION |
+| :- | :- | :- | :- |
+| Sonnax | - | 104548-01 | High Capacity 3-5-R Ring |
 
-### Frictions
-
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| BorgWarner | 24224148 | 31091AM | 3-5-R Friction | 5 |
-
-### Steels
-
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| Raybestos | 24232499 | 511187 | 3-5-R Steel | 5 |
-
-### Hard Parts
-
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| Sonnax | - | 104548-01 | High Capacity 3-5-R Ring | 1 |
+- no wave plate
+- 5 frictions
+- 5 steels
 
 &nbsp;
 
-## Clearances
+## Clearance
 
 0.008" - 0.010" per friction
 

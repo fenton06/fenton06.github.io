@@ -2,27 +2,27 @@
 
 ## Electronics
 
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| Sonnax | - | 124740-70K | Pressure Switch Rebuild Kit | 1 |
-| Sonnax | - | 124740-TL-70 | Pressure Switch Rebuild Tool Kit | 1 |
-| GM | 24258550 | - | Internal Mode Switch (new switch retros 2006-E2007)| 1 |
+| MANUFACTURER | OEM PN | PN | DESCRIPTION |
+| :- | :- | :- | :- |
+| Sonnax | - | 124740-70K | Pressure Switch Rebuild Kit |
+| Sonnax | - | 124740-TL-70 | Pressure Switch Rebuild Tool Kit |
+| GM | 24258550 | - | Internal Mode Switch (new switch retros 2006-E2007)|
 
 &nbsp;
 
 ## Hard Parts
 
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| AC Delco | 24245720 | - | Separator Plate (Type 1) | 1 |
-| AC Delco | 24272467 | - | Separator Plate (Type 2) | 1 |
-| AC Delco | 24280048 | - | HD Parking Rod | 1 |
+| MANUFACTURER | OEM PN | PN | DESCRIPTION |
+| :- | :- | :- | :- |
+| AC Delco | 24245720 | - | Separator Plate (Type 1) |
+| AC Delco | 24272467 | - | Separator Plate (Type 2) |
+| AC Delco | 24280048 | - | HD Parking Rod |
 
 &nbsp;
 
 ## Oversize Clutch Boost Valve
 
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| Sonnax | 104740-01 | - | Oversized Clutch Boost Valve | 1-3 |
-| Sonnax | F-104740-TL7 | - | Tool Kit | 1-3 |
+| MANUFACTURER | OEM PN | PN | DESCRIPTION |
+| :- | :- | :- | :- |
+| Sonnax | 104740-01 | - | Oversized Clutch Boost Valve |
+| Sonnax | F-104740-TL7 | - | Tool Kit |

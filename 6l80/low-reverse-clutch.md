@@ -1,32 +1,20 @@
 # Low Reverse Clutch
 
-## Frictions
+## Parts
 
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| BorgWarner | 24240041 | 31735AM | Low-Rev Friction | 5 |
+| MANUFACTURER | OEM PN | PN | DESCRIPTION |
+| :- | :- | :- | :- |
+| BorgWarner | 24240041 | 31735AM | Low-Rev Friction |
+| Raybestos | 24232496 | 511185 | Low-Rev Steel |
+| AC Delco | 24224172 | - | Low-Reverse Clutch Piston |
+| AC Delco | 24230752 | - | Rear Sprag Snap Ring (retros 2006-E2007)|
+| BorgWarner | - | 140747BW | 38 Element Sprag (retros 2006-E2007)|
 
-&nbsp;
-
-## Steels
-
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| Raybestos | 24232496 | 511185 | Low-Rev Steel | 5 |
-
-&nbsp;
-
-## Pistons
-
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| AC Delco | 24224172 | - | Low-Reverse Clutch Piston | 1 |
+- 5 frictions
+- 5 steels
 
 &nbsp;
 
-## Hard Parts
+## Clearance
 
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| AC Delco | 24230752 | - | Rear Sprag Snap Ring (retros 2006-E2007)| 1 |
-| BorgWarner | - | 140747BW | 38 Element Sprag (retros 2006-E2007)| 1 |
+TBD

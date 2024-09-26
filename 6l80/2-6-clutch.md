@@ -1,18 +1,22 @@
 # 2-6 Clutch
-## Frictions
 
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| BorgWarner | 24233939 | 31558AM | 2-6 Friction | 5 |
+## Parts
 
-## Steels
+| MANUFACTURER | OEM PN | PN | DESCRIPTION |
+| :- | :- | :- | :- |
+| BorgWarner | 24233939 | 31558AM | 2-6 Friction |
+| Raybestos | 24232498 | 511184 | 2-6 Steel |
+| AC Delco | 24224169 | - | 2-6 Clutch Piston |
 
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| Raybestos | 24232498 | 511184 | 2-6 Steel | 5 |
+&nbsp;
 
-## Pistons
+## Standard Stackup
 
-| MANUFACTURER | OEM PN | PN | DESCRIPTION | QTY |
-| :- | :- | :- | :- | :- |
-| AC Delco | 24224169 | - | 2-6 Clutch Piston | 1 |
+- 5 frictions
+- 5 steels
+
+&nbsp;
+
+## Clearance
+
+TBD
