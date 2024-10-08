@@ -1,4 +1,4 @@
-# Cheatsheet
+# 4L60E Cheat Sheet
 
 ## Clutch Stackups
 

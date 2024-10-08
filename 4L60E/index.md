@@ -16,4 +16,4 @@
 
 ### [Tools](tools.md)
 
-### [Cheatsheet](cheatsheet.md)
+### [Cheat Sheet](cheat-sheet.md)
