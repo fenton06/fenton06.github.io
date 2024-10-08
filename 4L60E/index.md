@@ -15,3 +15,5 @@
 ### [Geartrain](gear-train.md)
 
 ### [Tools](tools.md)
+
+### [Cheatsheet](cheatsheet.md)
