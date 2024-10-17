@@ -11,4 +11,4 @@
 
 ## Band Clearance
 
-TBD
+0.060" - 0.080"

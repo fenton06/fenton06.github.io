@@ -7,8 +7,6 @@
 | Sonnax | - | 77722-01K | Pump Slide Spring |
 | Sonnax | - | 4l60e-LB1 | Pump Bost Valve (Early) |
 | Sonnax | - | 4l60e-LB2 | Pump Bost Valve (Late) |
-| Sonnax | - | 77002BT-01 | Rear Stator Bushing |
-| Sonnax | - | 77005T | Pump Bushing |
 
 &nbsp;
 
@@ -16,7 +14,8 @@
 
 | MANUFACTURER | OEM PN | PN | DESCRIPTION |
 | :- | :- | :- | :- |
-| Sonnax | - | 1280 | Pump Vane (13 needed) |
+| Sonnax | - | 77002BT-01 | Rear Stator Bushing |
+| Sonnax | - | 77005T | Pump Bushing |
 
 &nbsp;
 

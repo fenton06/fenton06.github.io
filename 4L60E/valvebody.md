@@ -5,12 +5,12 @@
 | MANUFACTURER | OEM PN | PN | DESCRIPTION |
 | :- | :- | :- | :- |
 | Rostra | - | 350-0061 | Wiring Harness / TCC Lockup |
-| Sonnax | - | 77980-01K | Wiring Harness Retainer |
 | Rostra | 24219581 | 50-1002 | Pressure Switch |
 | Rostra | 24230298 | 52-0348 | 2-3 Solenoid (2) |
-| Rostra | 24209121, 24212327 | 52-0251 | 3-2 downshift |
-| Rostra | 24248893, 24224905, 24230632, 24241902 | 52-0518 | EPC solenoid |
-| Rostra | 24227747, 96042599 | 52-0240 | TCC pwm solenoid |
+| Rostra | 24212327 | 52-0251 | 3-2 downshift |
+| Rostra | 24248893 | 52-0518 | EPC solenoid |
+| Rostra | 24227792 | 52-0240 | TCC pwm solenoid |
+| Sonnax | - | 77980-01K | Wiring Harness Retainer |
 
 &nbsp;
 
@@ -20,8 +20,8 @@
 | :- | :- | :- | :- |
 | Sonnax | - | 77964-08K | O-Ring End Plugs |
 | Sonnax | - | 77754-21 | Fwd-Rev Abuse Plug (2) |
-| TransGo | - | 4l6-fwd | Alu Fwd Accumulator Piston |
-| TransGo | - | 4l65-2acm | Alu Fwd Accumulator Piston |
+| Sonnax | - | 74927AP | Alu Fwd Accumulator Piston |
+| TransGo | - | 4l6-2ACM | Alu 1-2 Accumulator Piston |
 | Sonnax | - | 10000-08 | Torlon Check Balls |
 
 &nbsp;

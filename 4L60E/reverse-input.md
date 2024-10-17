@@ -13,11 +13,20 @@
 
 ## Stackup
 
-- x frictions
-- x steels
+- waved / belleville (outer edge down)
+- 4 steels
+- 4 frictions
 
 &nbsp;
 
 ## Clearance
 
-TBD
+0.040" - 0.075"
+
+### Selective Backing Plates
+
+| MANUFACTURER | OEM PN | PN | DESCRIPTION |
+| :- | :- | :- | :- |
+| AC Delco | 24212463 | - | Reverse Input Backing Plate - 0.230" |
+| AC Delco | 24212464 | - | Reverse Input Backing Plate - 0.260" |
+| AC Delco | 24212465 | - | Reverse Input Backing Plate - 0.290" |
